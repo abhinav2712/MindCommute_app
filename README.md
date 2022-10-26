@@ -1,11 +1,17 @@
-# MindCommute_app
+### MindCommute
 
-The first app
+## v0.0.4 (Todo List)
 
-Todo List
+## Phase 1
+- [ ] Basic Feed
+- [ ] Profile
+- [ ] Basic chat format
 
-Phase 1
+## Phase 2
+- [ ] Chat with Web Socket and encryption
+- [ ] FIle Uploads on chat
 
-Phase 2
-
-Phase 3
+## Phase 3
+- [ ] Video RTC integration
+- [ ] Voice messages
+- [ ] Utilities and Video playback
